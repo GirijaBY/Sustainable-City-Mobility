@@ -23,15 +23,15 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECSP205</dd>
 <dt>Name</dt>
 <dd>Girija B Yadagundi</dd>
 <dt>SRN</dt>
 <dd>02FE23BCS175</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Prof.Vaishali Y.Parab</dd>
 <dt>University</dt>
-<dd>KLE Technological University</dd>
+<dd>KLE DR.M.S.SHESHAGIRI COLLEGE OF ENGINEERING & TECHNOLOGY,BELAGAVI </dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
