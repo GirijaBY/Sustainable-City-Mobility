@@ -14,8 +14,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/your-github-GirijaBY)
+- [LinkedIn](https://www.linkedin.com/in/girija-yadagundi-9731422a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Portfolio Topic
 
